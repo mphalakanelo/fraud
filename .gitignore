@@ -1,0 +1,11 @@
+# Ignore system & unnecessary files
+*.log
+*.csv
+*.html
+*.ini
+*.regtrans-ms
+*.dat
+venv/
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
